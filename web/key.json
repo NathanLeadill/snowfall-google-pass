@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "western-pager-384114",
+  "private_key_id": "14424c0d3588aeafd2a8376592bc2642cc5c02f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD82GNmxxGO7HAx\nEt83iVMnsQVvCVKN80KwblhBfioZaVGmC08uQCEj05AZTr72fYErZsesvzv5asWV\nAvQi4qMiu7UADgqinaPrCuOSNWYA34iOwS2asid4IOBTjsrtJ2PWmQ5LoAmtiNS9\nIoKtQe+ixE/aKYfIiAV4nr155b01bOdjCS0jny/+fQE63V9KxIZp9Ds4T4B+E1Ul\n3IuTdBwLTO8QwQp5ZAS+g/eyBjxHfj+lSEUOvwLqkC5tEI/IQSl55XkuHJhlvAXI\nraoE8v0ShMr7jNjWQVaXgQMKwR3xpQF50O272wUL9sI6VUFlFlZfYeR2+cz/0OkX\nSva9CS2TAgMBAAECggEAEdbyrH2/L2ZfRBcgyLpXs6U5zOvLd1iCjBA9CeHs9n4H\n1L9XhtvfereioyZ7MskIJBfMXtPfV2nBJxJeR1fWSs0TqD1VYsPcnOjXxake2VDs\nQaY/oXqQblljeoHIr5Ln6GxEJfHUvPm6iN22eqL8VW+kcrAbdHqkaC5LEB61it9Q\nTTAYVj96vnHNrc1mz8ePebNP/cvSg2jevO1XifTJTcGKODdxTLPWcG6gTNCPy3/X\ntyMtIdmK968JjwJa6dmJ/48NWLj3bjPjc/PRanfwBolB5KCmmCmY2CbV+8h6mf0T\n9tXSi4B3Q4YSv/vg5fK5V/FlvF5bigaXJW8MvRVmgQKBgQD/f6fIbJVO37iMKwGZ\nd+JijEhRdEkagY5MQTt+0/WzzQgLCgFTPTvY6n4ca2RqfePdu7yBr2OSShJZvnUy\nfyuQvyS99BhO3UTyDYpOctyp7XiMbX0pSNpcFMlBDQR/JayjRY2Kt3lftRfOAQq1\nlOVAV8QogvNXH8/nFLm11EzADQKBgQD9V2ZnBXF28AKtxpu9HydGV8JoYCjtju82\nomj/DojbQhkLWQmY40qLQngV/fKdvhuIgGrAb9Ft5s18NXoKOqozPjzqoU6v4/aK\n4bYbAEvHRU8Zd8Ztg6XQx9Q1AHq3doHISPsd2bIaC7lnC04KYiZ+2dhTjQtWaE0f\ndkQRSg6cHwKBgQDjad+QsL1xGAaulHT3AdM5/j08azHKaviafRGUwNsYr+1xzfUB\n/yXu3EFl0FzvwJ/6s+iE0fThuBZ/VNwCF1lSnB/7B3I/eAmvHUg2rVwl0B4VeDsI\nbTUW8tVzlj+jYIg6R2VFzCs3efv3O8wpdZ9cVwJdQLmRmdo2h6cI5i9uXQKBgGZo\neiCS9rbZdnvAmRvuB/ZLa2690E2XReOT61WPDotzQKRxrYt79ZotmFVrfjN9sauQ\nHZcEnGgMsGvRQi/4Xuyv7/f4lNJNGFAzxWVMzVUUE1F8NV33pYOsA4AZXYHkCbpo\npfn/EhutOZkJ3NYdruoALY44qaiYKPTa3dEPWrCJAoGAHbHNF3afISuAu8DgVooi\nN8UrNOApUDsdK+58nqmPUdSv1WWJNdMi8dPS4ARTwF1JBfpMC/DcIg5s5A1fEwXl\n3IdCUynpgiUIKPNf44os0fQNqRpxxqVVl/EDmyzw+8+f3ld5tjIvh2oCZBR8NAvE\np4RM9YWE0FWoAgWtxdwd6+U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nathan-snowfall@western-pager-384114.iam.gserviceaccount.com",
+  "client_id": "104624374373250993150",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nathan-snowfall%40western-pager-384114.iam.gserviceaccount.com"
+}
